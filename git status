@@ -1,0 +1,36 @@
+[33mcommit 2b4a6d78bbe7c1fb63b8575f86e6f8c1c7a49e7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Tristan Kainama <io.kainama@gmail.com>
+Date:   Fri May 2 21:18:10 2025 +0700
+
+    Adding two more recipes and giving credit
+
+[33mcommit befab1a4020d63c6c8516d86b568cf425f3e5bfe[m
+Author: Tristan Kainama <io.kainama@gmail.com>
+Date:   Fri May 2 20:57:49 2025 +0700
+
+    Image folder to store images, improving homepage,
+    finish first recipe.
+
+[33mcommit a17893d9af83a47dd53287de9835f2d05a4d84d1[m
+Author: Tristan Kainama <io.kainama@gmail.com>
+Date:   Fri May 2 20:45:56 2025 +0700
+
+    Creating headers for home and first recipe
+
+[33mcommit 83fc0a1a5435e924ab6f56497cac0ed1e418021f[m
+Author: Tristan Kainama <io.kainama@gmail.com>
+Date:   Fri May 2 20:36:20 2025 +0700
+
+    Creating home file
+
+[33mcommit ddf6a18b645202031499763239917065f4e117c7[m
+Author: Tristan Kainama <io.kainama@gmail.com>
+Date:   Fri May 2 20:34:42 2025 +0700
+
+    Putting content on README
+
+[33mcommit ac8733965e049998b2f9da57e14d17340c629cb0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tristan-Kainama <87886303+Tristan-Kainama@users.noreply.github.com>
+Date:   Fri May 2 15:17:36 2025 +0700
+
+    Initial commit
